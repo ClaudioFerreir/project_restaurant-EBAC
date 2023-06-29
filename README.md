@@ -1,1 +1,2 @@
-# project_restaurant-EBAC
+# Restaurant Project
+## Part of EBAC - Bootstrap Module
