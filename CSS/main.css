@@ -25,6 +25,7 @@ body {
 
 .carousel-item img {
   object-fit: cover;
+  height: 500px;
 }
 
 .section-title {
@@ -64,3 +65,4 @@ body {
     height: 350px;
   }
 }
+
